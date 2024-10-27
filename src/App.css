@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  background: #f2efe9;
+}
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  /* background-color: grey; */
+}
+
+h1 {
+  margin: 20px 0;
+}
+
+#sidebar {
+  padding: 10px;
+  background: #f2efe9;
+  border-left: 1px solid #ccc;
+}
